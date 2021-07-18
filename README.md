@@ -19,9 +19,9 @@
 
 ## Check out my ⚡Streaks⚡ and Stats. 📊
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoorinSakhi&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=NoorinSakhi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodingSpecies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details close>
   <summary> Click To See My ✨Special✨ Story! </summary>
@@ -29,9 +29,6 @@
    Heyy! Aspiring Programmer RIGHT Here. (Ta Da! 🎩🐣)!! <img src="https://user-images.githubusercontent.com/70807500/120706795-6fdde280-c4b1-11eb-9c50-f290d234d8a1.jpg" height="50px" width="50px">
   
 I wish to create helpful code for 🌟EVERYONE🌟!!! <img src="https://user-images.githubusercontent.com/70807500/120776816-840af980-c51c-11eb-8198-701c3c10b3bd.jpg" height="50px" width="50px">
-  
-  ![image](https://user-images.githubusercontent.com/70807500/126076587-e587ea09-375a-4e5d-a5ed-ae533a04f669.png)
-
 
 I like to think of new code projects... 🤔💭 <img src="https://user-images.githubusercontent.com/70807500/120706904-93089200-c4b1-11eb-8f03-7ad6dc5cd6fd.jpg" height="50px" width="50px">
   </details>
