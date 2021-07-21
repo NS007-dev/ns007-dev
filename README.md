@@ -19,8 +19,8 @@
 
 ## Check out my ⚡Streaks⚡ and Stats. 📊
 
-<img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" />
-
+<!-- <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" />
+ -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodingSpecies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
