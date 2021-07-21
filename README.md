@@ -37,6 +37,6 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
   <br>
   
 - [x] For high resolution backgrounds and images, I use [Freepik](https://www.freepik.com/)!
-- [x] I use [Flaticon](https://www.flaticon.com/) for all of my icons!
+- [x] I use [Flaticon](https://www.flaticon.com/) for all of my icons and crystal-clear logos!!
 - [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
  </details>
