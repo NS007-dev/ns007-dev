@@ -20,6 +20,7 @@
 - [IT Support Officers Save Lives](https://CodingSpecies/itsupportofficerssavelives.github.io)
 - [Start Stop Clock](https://github.com/CodingSpecies/StartStopClock)
 - [Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)
+- [Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer/)
 
 ## Check out my ⚡Streaks⚡ and Stats. 📊
 
