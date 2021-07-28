@@ -1,5 +1,5 @@
 ## Heyy!🐱‍💻
-
+<img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=CodingSpecies)
@@ -11,8 +11,6 @@
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)
 
 <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0JTIwc2xlZXAlMjBjb2RlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="400px" width="425px" style="float: right;">
-
-![octocat](https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png)
 
 ### My Original 🌟BEST🌟 Works:
 
