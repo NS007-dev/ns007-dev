@@ -11,7 +11,8 @@
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)
 
 <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0JTIwc2xlZXAlMjBjb2RlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="400px" width="425px" style="float: right;">
-<img src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+
+![octocat](https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png)
 
 ### My Original 🌟BEST🌟 Works:
 
