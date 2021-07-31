@@ -25,7 +25,7 @@
 - [Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)
 - [Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer/)
 
-## Check out my ⚡Streaks⚡ and Stats. 📊
+## Check out my ⚡Streaks⚡ and Stats: 📊
 
 <!-- <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" />
  -->
