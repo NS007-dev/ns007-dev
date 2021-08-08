@@ -3,7 +3,9 @@
 
 
 <h3>
+ 
 [See My Website!](https://codingspecies.github.io/MeAndMyApps/)
+ 
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
