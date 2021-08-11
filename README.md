@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=CodingSpecies)
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
 ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
