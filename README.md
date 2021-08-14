@@ -35,8 +35,16 @@
 <!--  <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" /> -->
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodingSpecies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ ## See the languages I know:
+ <code> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" height = 50px> </code>  <code> <img src="https://image.flaticon.com/icons/png/512/919/919827.png" height = 50px> </code> <code> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height = 50px> </code> <code> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height = 50px> </code> 
+ 
+ 
+ <details close>
+  <summary> See My Graph!</summary>
+  <br>
+ [![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodingSpecies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ </details>
 
 <details close>
   <summary> Click To See My ✨Special✨ Story! </summary>
