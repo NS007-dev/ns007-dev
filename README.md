@@ -1,4 +1,4 @@
-
+<samp>
  <h1><strong><em>Heyy! </em></strong>🐱‍💻</h1>
 <img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150">
  
@@ -64,5 +64,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 - [x] I use [Flaticon](https://www.flaticon.com/) for all of my icons and crystal-clear logos!!
 - [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
  </details>
+ 
+ </samp>
  
  ![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&isocalendar=1&languages=1&introduction=1&people=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=javascript%2C%20html%2C%20css%2C%20markdown&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=15&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=https%3A%2F%2Fcodingspecies.github.io%2FMeAndMyApps%2F&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Europe%2FLondon)
