@@ -1,5 +1,8 @@
 <samp>
  <h1><strong>Heyy!</strong>🐱‍💻</h1>
+ 
+ ![](https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/)
+ 
 <!--  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png" height=150px width=150px>
   -->
 <img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150">
@@ -72,6 +75,8 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 - [x] I use [Flaticon](https://www.flaticon.com/) for all of my icons and crystal-clear logos!!
 - [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
  </details>
+ 
+ <img src="https://64.media.tumblr.com/df37ee1cd45e36f27e36af581029f51e/tumblr_mn40fjGygp1rgpyeqo1_500.gif" height=300px>
  
  </samp>
  
