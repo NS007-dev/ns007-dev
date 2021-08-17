@@ -1,5 +1,7 @@
 <samp>
  <h1><strong>Heyy!</strong>🐱‍💻</h1>
+<!--  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png" height=150px width=150px>
+  -->
 <img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150">
 <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/129593035-55bda4e4-b73d-4af1-82eb-c07e2987ea25.png" height="150" width="150" style="float:right">
