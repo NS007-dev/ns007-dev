@@ -79,4 +79,5 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
  <img src="https://64.media.tumblr.com/df37ee1cd45e36f27e36af581029f51e/tumblr_mn40fjGygp1rgpyeqo1_500.gif" height=300px>
  
  </samp>
+ 
 ![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&achievements=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=javascript%2C%20html%2C%20css%2C%20markdown&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fcodingspecies.github.io%2FMeAndMyApps%2F&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Europe%2FLondon)
