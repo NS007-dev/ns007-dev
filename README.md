@@ -32,7 +32,7 @@
  ## As you can see, I love badges!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
- 
+
  <h3>  
  
  [See My Website!](https://codingspecies.github.io/MeAndMyApps/) 
@@ -47,10 +47,14 @@
 > Take a Look... 😁
 
 [Best-App-Tutorials](https://github.com/CodingSpecies/Best-App-Tutorials)
+  <br />
 [IT Support Officers Save Lives](https://CodingSpecies/itsupportofficerssavelives.github.io)
+  <br />
 [Start Stop Clock](https://github.com/CodingSpecies/StartStopClock)
-[Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)
-[Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer/)
+  <br /> 
+[Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)  
+  <br />
+[Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer)
 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 <img src="https://user-images.githubusercontent.com/70807500/131542831-ea5ff8a2-8910-4021-95e1-f9cdf2846d67.png" height="60" />
 
