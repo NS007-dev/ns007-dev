@@ -1,11 +1,6 @@
 <samp>
- <h1 align="center"><strong>Heyy!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="44px" /> </h1>
+ <h1 align="center"><strong>Heyy!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="60px" /> </h1>
 
-<!-- ## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
-
-  -->
  <div align="center">
  
 <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" />
