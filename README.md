@@ -19,10 +19,10 @@
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
 
- ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
+![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow)
  
  ## As you can see, I love badges!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
  
