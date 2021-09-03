@@ -56,6 +56,8 @@
 [Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)  
   <br />
 [Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer)
+  <br />
+[InstDOGram](https://github.com/CodingSpecies/InstDOGram)
 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 <img src="https://user-images.githubusercontent.com/70807500/131542831-ea5ff8a2-8910-4021-95e1-f9cdf2846d67.png" height="60" />
 
