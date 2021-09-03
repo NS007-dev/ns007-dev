@@ -1,3 +1,9 @@
+<div align= "center">
+
+## 🌎 **NEWS FLASH: Check out my best app yet!!!! [InstDOGram](https://codingspecies.github.io/InstDOGram/) See the repo [here](https://github.com/CodingSpecies/InstDOGram)** 🌎
+
+</div>
+ 
 <samp>
  <h1 align="center"><strong>Heyy!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="60px" /> </h1>
 
