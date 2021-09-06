@@ -1,5 +1,8 @@
 <div align= "center">
 
+ <img src="https://user-images.githubusercontent.com/70807500/132250762-bf786b91-c5ae-4530-a8c8-378bdeecf10d.png" height="300" width="9900">
+
+
 ## 🌎 **NEWS FLASH: Check out my best app yet!!!! [InstDOGram](https://codingspecies.github.io/InstDOGram/) See the repo [here](https://github.com/CodingSpecies/InstDOGram)** 🌎
 
 </div>
@@ -8,8 +11,8 @@
  <h1 align="center"><strong>Heyy!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="60px" /> </h1>
 
  <div align="center">
- 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" />
+<!--  
+<img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" /> -->
  
 <!--  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png" height=150px width=150px>
   -->
