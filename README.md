@@ -1,11 +1,4 @@
-<div align= "center">
-
- <img src="https://user-images.githubusercontent.com/70807500/132250762-bf786b91-c5ae-4530-a8c8-378bdeecf10d.png" height="300" width="9900">
-
-
 ## 🌎 **NEWS FLASH: Check out my best app yet!!!! [InstDOGram](https://codingspecies.github.io/InstDOGram/) See the repo [here](https://github.com/CodingSpecies/InstDOGram)** 🌎
-
-</div>
  
 <samp>
  <h1 align="center"><strong>Heyy!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="60px" /> </h1>
@@ -16,6 +9,7 @@
  
 <!--  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png" height=150px width=150px>
   -->
+   <img src="https://user-images.githubusercontent.com/70807500/132250762-bf786b91-c5ae-4530-a8c8-378bdeecf10d.png" height="300" width="9900">
   
   <img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/129593035-55bda4e4-b73d-4af1-82eb-c07e2987ea25.png" height="150" width="150" style="float:right">
