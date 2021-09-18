@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
  
- ## As you can see, I love badges!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
+ ## As you can see, I REALLY love badges!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
 
