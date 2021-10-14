@@ -34,7 +34,7 @@
  <h3>  
  
  [See My Website!](https://codingspecies.github.io/MeAndMyApps/) 
- Need help in open source? Contribute here: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+ Need help in open source collaborating and contributing? Contribute here: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
  
  </h3>
 
