@@ -85,11 +85,11 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
  
  <h1 align="center"> That's all for now!!! See below for more stats, but otherwise... BYE!!!! </h1>
  
- <div align="center">
+<!--  <div align="center">
 
  <img src="https://user-images.githubusercontent.com/70807500/131543068-0ff69c07-d8af-46c5-bcea-702d37d2b3ee.png" height="150px" />
   
- </div>
+ </div> -->
  
  </samp>
  
