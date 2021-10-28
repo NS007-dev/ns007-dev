@@ -93,8 +93,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
  
  </samp>
  
-![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&achievements=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=javascript%2C%20html%2C%20css%2C%20markdown&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=https%3A%2F%2Fcodingspecies.github.io%2FMeAndMyApps%2F&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Europe%2FLondon)
-
+![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.twemoji=true)
  </div>
  
  
