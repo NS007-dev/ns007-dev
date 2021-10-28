@@ -81,15 +81,15 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 - [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
  </details>
  
- <img src="https://64.media.tumblr.com/df37ee1cd45e36f27e36af581029f51e/tumblr_mn40fjGygp1rgpyeqo1_500.gif" height=300px>
+<!--  <img src="https://64.media.tumblr.com/df37ee1cd45e36f27e36af581029f51e/tumblr_mn40fjGygp1rgpyeqo1_500.gif" height=300px> -->
  
  <h1 align="center"> That's all for now!!! See below for more stats, but otherwise... BYE!!!! </h1>
  
-<!--  <div align="center">
+ <div align="center">
 
  <img src="https://user-images.githubusercontent.com/70807500/131543068-0ff69c07-d8af-46c5-bcea-702d37d2b3ee.png" height="150px" />
   
- </div> -->
+ </div>
  
  </samp>
  
