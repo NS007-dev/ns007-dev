@@ -92,8 +92,8 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
  </div>
  
  </samp>
- 
-![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.twemoji=true)
+<!--  
+![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.twemoji=true) -->
  </div>
  
  
