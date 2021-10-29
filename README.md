@@ -1,3 +1,7 @@
+## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️
+
+#### [🌐 Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) 
+
 ![banner(2)](https://user-images.githubusercontent.com/70807500/139225414-4d85dfbc-8356-4aa3-bbae-8a457ec7acfc.png)
 
 ---------------------------
@@ -16,14 +20,14 @@
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
  
- ## As you can see, I love badges!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
+ ## 🇦‌🇸‌ 🇾‌🇴‌🇺‌ 🇨‌🇦‌🇳‌ 🇸‌🇪‌🇪‌, 🇮‌ 🇱‌🇴‌🇻‌🇪‌ 🇧‌🇦‌🇩‌🇬‌🇪‌🇸‌!!! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
 
  <h3>  
  
  [See My Website!](https://codingspecies.github.io/MeAndMyApps/) 
- Need help in open source collaborating and contributing? Contribute here: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ ᔕOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
  
  </h3>
 
@@ -109,4 +113,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 <!--  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png" height=150px width=150px>
   -->
 <!--    <img src="https://user-images.githubusercontent.com/70807500/132250762-bf786b91-c5ae-4530-a8c8-378bdeecf10d.png" height="300" width="9900"> -->
+  
+## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️
+  
   
