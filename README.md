@@ -30,6 +30,9 @@
 ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ ᔕOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
  
  </h3>
+ 
+ ## See the languages I know 🧠:
+<code> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" height = 70px> </code>  <code> <img src="https://ovidya.in/img/icon/html.png" height = 70px> </code> <code> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height = 70px> </code> <code> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height = 70px> </code> <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height = 70px></code> <code> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=70 /> </code> <code> <img src="https://static.thenounproject.com/png/3070675-200.png" height=70 /> </code> 
 
 <!-- <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0JTIwc2xlZXAlMjBjb2RlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="400px" width="425px" style="float: right;"> -->
 
@@ -55,10 +58,6 @@
 <!--  <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" /> -->
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)
- 
- ## See the languages I know:
- <code> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" height = 70px> </code>  <code> <img src="https://ovidya.in/img/icon/html.png" height = 70px> </code> <code> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height = 70px> </code> <code> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height = 70px> </code> <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height = 70px> </code> 
- 
  
  <details close>
   <summary> See My Graph!</summary>
