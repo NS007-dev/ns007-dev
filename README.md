@@ -2,7 +2,7 @@
 
 #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) 
 
-![banner(2)](https://user-images.githubusercontent.com/70807500/139225414-4d85dfbc-8356-4aa3-bbae-8a457ec7acfc.png)
+![banner(2)](./banner.png)
 
 ---------------------------
 
