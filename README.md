@@ -52,13 +52,13 @@
 [Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer)
   <br />
 [InstDOGram](https://github.com/CodingSpecies/InstDOGram)
-
+<!-- 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 <img src="https://user-images.githubusercontent.com/70807500/131542831-ea5ff8a2-8910-4021-95e1-f9cdf2846d67.png" height="60" />
 
 
 <!--  <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" /> -->
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats) -->
  
  <details close>
   <summary> See My Graph!</summary>
