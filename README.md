@@ -27,7 +27,7 @@
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
  
- [See My Website!](https://codingspecies.github.io/MeAndMyApps/) 
+ [Check out My Website!](https://codingspecies.github.io/MeAndMyApps/) 
 ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ ᔕOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
  
  </h3>
