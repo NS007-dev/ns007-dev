@@ -67,7 +67,7 @@
 <details close>
   <summary> Click To See My ✨Special✨ Story! 📚 </summary>
   <br>
-   Heyy! Aspiring Programmer RIGHT Here. (Ta Da! 🎩🐣)!! <img src="https://user-images.githubusercontent.com/70807500/120706795-6fdde280-c4b1-11eb-9c50-f290d234d8a1.jpg" height="50px" width="50px">
+   Heyy! Programmer/Developer/Engineer RIGHT Here. (Ta Da! 🎩🐣)!! <img src="https://user-images.githubusercontent.com/70807500/120706795-6fdde280-c4b1-11eb-9c50-f290d234d8a1.jpg" height="50px" width="50px">
   
 I wish to create helpful code for 🌟EVERYONE🌟!!! <img src="https://user-images.githubusercontent.com/70807500/120776816-840af980-c51c-11eb-8198-701c3c10b3bd.jpg" height="50px" width="50px">
 
