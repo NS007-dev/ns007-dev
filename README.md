@@ -1,5 +1,7 @@
 <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
 
+## Loading: [█████████████_] - 99%
+
 #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) 
 
 ![banners](./banner.png)
