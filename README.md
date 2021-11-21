@@ -2,7 +2,7 @@
 
 ## Loading: [█████████████_] - 99%
 
-#### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) 
+#### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile](http://linkfree.eddiehub.org/CodingSpecies)
 
 ![banners](./banner.png)
 
