@@ -1,7 +1,5 @@
 <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
 
-## Loading: [█████████████_] - 99%
-
 #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile](http://linkfree.eddiehub.org/CodingSpecies)
 
 ![banners](./banner.png)
@@ -113,5 +111,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
   -->
 <!--    <img src="https://user-images.githubusercontent.com/70807500/132250762-bf786b91-c5ae-4530-a8c8-378bdeecf10d.png" height="300" width="9900"> -->
 <!-- https://skyline.github.com/ -->
+  
+<!-- ## Loading: [█████████████_] - 99% -->
   
 <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ --> 
