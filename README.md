@@ -2,6 +2,8 @@
 
 #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile](http://linkfree.eddiehub.org/CodingSpecies)
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ![banners](./banner.png)
 
 ---------------------------
