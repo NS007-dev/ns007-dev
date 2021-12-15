@@ -16,7 +16,6 @@
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
-
 ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
