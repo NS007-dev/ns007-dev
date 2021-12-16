@@ -29,7 +29,7 @@
  <h3>  
  
  [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
-ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ ᔕOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ SOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
  Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
