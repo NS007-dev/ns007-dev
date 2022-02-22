@@ -39,18 +39,8 @@
 ### My Original and 🌟BEST🌟 Works 💪🏋️‍♀️<img src="https://user-images.githubusercontent.com/70807500/131542617-094c1ce9-7fb0-4c77-b865-a63e05bcc17a.png" height="60" /> :
 
 > Take a Look at... 😁
-
-[Best-App-Tutorials](https://github.com/CodingSpecies/Best-App-Tutorials)
-  <br />
-[IT Support Officers Save Lives](https://CodingSpecies/itsupportofficerssavelives.github.io)
-  <br />
-[Start Stop Clock](https://github.com/CodingSpecies/StartStopClock)
-  <br /> 
-[Tick Tock Clock](https://github.com/CodingSpecies/TickTockClock)  
-  <br />
-[Pixel Tracer](https://codingspecies.github.io/Pixel-Tracer)
-  <br />
-[InstDOGram](https://github.com/CodingSpecies/InstDOGram)
+  
+<a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a>
  
  <details close>
   <summary> See My Graphs! 📊</summary>
@@ -77,7 +67,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 - [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
  </details>
  
- <h1 align="center"> That's all for now!!! See below for more stats, but otherwise... BYE!!!! </h1>
+ <h1 align="center"> That's all for now!!! See below for my contrbution graph, recent activity and pinned repos!</h1>
  
  <div align="center">
 
@@ -115,3 +105,4 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
   
 <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
   <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
+
