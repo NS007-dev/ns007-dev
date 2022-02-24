@@ -1,6 +1,8 @@
-#### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org! 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕!](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile!](http://linkfree.eddiehub.org/CodingSpecies)
+<div align=center>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<a href="https://github.com/CodingSpecies/InstDOGram"><img src="https://user-images.githubusercontent.com/70807500/155603182-753b83fd-fd1c-41c0-ab9b-5a6c91074b37.png" height=50/> </a> <a href="https://codingspecies.github.io/MeAndMyApps/"> <img src="https://img.icons8.com/color/50/000000/domain--v1.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="https://user-images.githubusercontent.com/70807500/155604323-34d42265-b663-4627-9e7b-7ae5e6a458e0.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/link--v1.png" height=45/> </a>
+ 
+ </div>
 
 ![banners](./banner.png)
 
@@ -105,4 +107,6 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
   
 <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
   <!-- ## 🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️💻🤩💫🌃🗽👩‍💻🐱‍💻🖥️⌨️🖱️ -->
+  
+<!--   #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org! 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕!](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile!](http://linkfree.eddiehub.org/CodingSpecies) -->
 
