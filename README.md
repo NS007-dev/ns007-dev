@@ -93,12 +93,12 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodingSpecies&theme=blue-green&count_private=true)](https://git.io/streak-stats)  -->
  <!-- ### <img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/> **NEWS FLASH: Check out my best app yet! [InstDOGram](https://codingspecies.github.io/InstDOGram/) See the repo right [here](https://github.com/CodingSpecies/InstDOGram)** <img src="https://c.tenor.com/-khideobVBgAAAAi/earth-wind.gif" height="40"/>  -->
  
-<samp>
+<!-- <samp> -->
 <!--  <h1 align="center"><strong>Heyy!!!</strong>🐱‍💻<img src="https://user-images.githubusercontent.com/70807500/131541988-4222e6af-3cc8-4177-af37-b6a76132b9c5.png" height="30px" /> </h1> -->
  
 <!--  <img src="https://64.media.tumblr.com/df37ee1cd45e36f27e36af581029f51e/tumblr_mn40fjGygp1rgpyeqo1_500.gif" height=300px> -->
 
- <div align="center">
+<!--  <div align="center"> -->
 <!--  
 <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" /> -->
  
