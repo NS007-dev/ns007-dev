@@ -12,7 +12,6 @@
 
 -----
 
-
 <div align=center>
  <img src ="./IDEAS.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
 <img src="./mac.png" height="150" width="150" style="float:right">
@@ -32,7 +31,13 @@
  <h3>  
  
  👉 [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
+
+ <br>
+
  👉 Contribute and explore the world of contributing: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+
+ <br>
+
  👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
