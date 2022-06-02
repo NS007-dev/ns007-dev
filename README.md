@@ -12,9 +12,6 @@
 
 -----
 
- ## See the languages that I know and what I work with 🧠 💭:
-<code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
-
 <div align=center>
  <img src ="./IDEAS.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
 <img src="./mac.png" height="150" width="150" style="float:right">
@@ -23,6 +20,8 @@
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
 
+ ## See the languages that I know and what I work with 🧠 💭:
+<code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
 
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
