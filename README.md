@@ -12,21 +12,17 @@
 
 -----
 
+ ## See the languages that I know and what I work with 🧠 💭:
+<code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
+
 <div align=center>
  <img src ="./IDEAS.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
 <img src="./mac.png" height="150" width="150" style="float:right">
 <img src="./starry.png" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
-<!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> -->
 
-<!-- ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
-![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) 
--->
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
- 
- <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg) -->
+
 
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
@@ -36,21 +32,18 @@
 - 👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
- ## See the languages that I know and what I work with 🧠 💭:
-<code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
-
 ## Take a l👀k at some of my apps and projects:
   
 <a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a>
  
- <details close>
+ <!-- <details close>
   <summary> See My Graphs! 📊</summary>
   <br>
  
  [![github activity graph](https://activity-graph.herokuapp.com/graph?username=CodingSpecies&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- </details>
+ </details> -->
 
-<details close>
+<!-- <details close>
   <summary> Click To See some more about me: </summary>
   <br>
    Heyy! Programmer/Developer/Engineer RIGHT Here. (Ta Da! 🎩🐣)!! <img src="https://user-images.githubusercontent.com/70807500/120706795-6fdde280-c4b1-11eb-9c50-f290d234d8a1.jpg" height="50px" width="50px">
@@ -59,13 +52,20 @@ I wish to create helpful and conveniant code for 🌟EVERYONE🌟!!! <img src="h
 
 I like to think of new code projects... 🤔💭 <img src="https://user-images.githubusercontent.com/70807500/120706904-93089200-c4b1-11eb-8f03-7ad6dc5cd6fd.jpg" height="50px" width="50px">
   </details>
- 
+  -->
  </samp>
 <!--  
 ![Metrics](https://metrics.lecoq.io/CodingSpecies?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon&config.twemoji=true) -->
  </div>
- 
- 
+  
+ <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg) -->
+ <!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> -->
+
+<!-- ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
+![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
+![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) 
+-->
 <!-- 
 ## Check out my ⚡Streaks⚡ and Stats: 📊 <img src="https://user-images.githubusercontent.com/70807500/131542831-ea5ff8a2-8910-4021-95e1-f9cdf2846d67.png" height="60" /> -->
 <!--  <img src="https://ghchart.rshah.org/CodingSpecies" alt="2016rshah's Github chart" /> -->
