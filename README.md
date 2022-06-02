@@ -31,19 +31,15 @@
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
  
- [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
-ᑎEEᗪ ᕼEᒪᑭ Iᑎ OᑭEᑎ SOᑌᖇᑕE ᑕOᒪᒪᗩᗷOᖇᗩTIᑎG ᗩᑎᗪ ᑕOᑎTᖇIᗷᑌTIᑎG? ᑕOᑎTᖇIᗷᑌTE ᕼEᖇE: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
- Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
+ 👉 [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
+ 👉 Contribute and explore the world of contributing: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+ 👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
  ## See the languages that I know and what I work with 🧠 💭:
-<code> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png" height = 70px> </code>  <code> <img src="https://ovidya.in/img/icon/html.png" height = 70px> </code> <code> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height = 70px> </code> <code> <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" height = 70px> </code> <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height = 70px></code> <code> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height=70 /> </code> <code> <img src="https://static.thenounproject.com/png/3070675-200.png" height=70 /> </code> <code> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height=70 /></code>
- 
-<!-- <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0JTIwc2xlZXAlMjBjb2RlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" height="400px" width="425px" style="float: right;"> -->
+<code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
 
-### My Original and 🌟BEST🌟 Works: <img src="https://user-images.githubusercontent.com/70807500/131542617-094c1ce9-7fb0-4c77-b865-a63e05bcc17a.png" height="60" /> :
-
-> Take a Look at... 😁
+## Take a l👀k at some of my apps and projects:
   
 <a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a>
  
@@ -55,7 +51,7 @@
  </details>
 
 <details close>
-  <summary> Click To See My ✨Special✨ Story! 📚 </summary>
+  <summary> Click To See some more about me: </summary>
   <br>
    Heyy! Programmer/Developer/Engineer RIGHT Here. (Ta Da! 🎩🐣)!! <img src="https://user-images.githubusercontent.com/70807500/120706795-6fdde280-c4b1-11eb-9c50-f290d234d8a1.jpg" height="50px" width="50px">
   
@@ -63,22 +59,6 @@ I wish to create helpful and conveniant code for 🌟EVERYONE🌟!!! <img src="h
 
 I like to think of new code projects... 🤔💭 <img src="https://user-images.githubusercontent.com/70807500/120706904-93089200-c4b1-11eb-8f03-7ad6dc5cd6fd.jpg" height="50px" width="50px">
   </details>
-<details close>
-  <summary> Click To See Resources I think are really useful 👍👍👍! </summary>
-  <br>
-  
-- [x] For high resolution backgrounds and images, I use [Freepik](https://www.freepik.com/)!
-- [x] I use [Flaticon](https://www.flaticon.com/) for all of my icons and crystal-clear logos!!
-- [x] OBVIOUSLY, I use [W3 Schools](https://www.w3schools.com/) for all my code bits and pieces!
- </details>
- 
- <h1 align="center"> That's all for now!!! See below for my contrbution graph, recent activity and pinned repos!</h1>
- 
- <div align="center">
-
- <img src="https://user-images.githubusercontent.com/70807500/131543068-0ff69c07-d8af-46c5-bcea-702d37d2b3ee.png" height="150px" />
-  
- </div>
  
  </samp>
 <!--  
