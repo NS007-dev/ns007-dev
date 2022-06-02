@@ -1,6 +1,6 @@
 <div align=center>
 
-<a href="https://github.com/CodingSpecies/InstDOGram"><img src="https://user-images.githubusercontent.com/70807500/155603182-753b83fd-fd1c-41c0-ab9b-5a6c91074b37.png" height=50/> </a> <a href="https://codingspecies.github.io/MeAndMyApps/"> <img src="https://img.icons8.com/color/50/000000/domain--v1.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="https://user-images.githubusercontent.com/70807500/155604323-34d42265-b663-4627-9e7b-7ae5e6a458e0.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="https://img.icons8.com/ios-glyphs/30/4a90e2/link--v1.png" height=45/> </a>
+<a href="https://github.com/CodingSpecies/InstDOGram"><img src="./instdogram.png" height=50/> </a> <a href="https://codingspecies.github.io/MeAndMyApps/"> <img src="./website.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="./organisation.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="./linkfree.png" height=45/> </a>
  
  #### 👆🏽 See my InstDOGram, Website, Join my org, LinkFree! ☝🏽
  
@@ -14,9 +14,9 @@
 
 
 <div align=center>
- <img src ="https://i.pinimg.com/originals/9d/4d/31/9d4d314ec7722d05541111a180e4e54b.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
-<img src="https://user-images.githubusercontent.com/70807500/129593035-55bda4e4-b73d-4af1-82eb-c07e2987ea25.png" height="150" width="150" style="float:right">
-<img src="https://user-images.githubusercontent.com/70807500/129593259-4efd4ea3-cb92-4bfa-82c0-5a565fcd3ad7.jpg" height="150" width="150" style="float:right">
+ <img src ="./IDEAS.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
+<img src="./mac.png" height="150" width="150" style="float:right">
+<img src="./starry.png" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
@@ -24,8 +24,7 @@
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
- 
- ## 🇦‌🇸‌ 🇾‌🇴‌🇺‌ 🇨‌🇦‌🇳‌ 🇸‌🇪‌🇪‌, 🇮‌ 🇱‌🇴‌🇻‌🇪‌ 🇧‌🇦‌🇩‌🇬‌🇪‌🇸‌! 🎉🎊🎉👆☝ <img src="https://user-images.githubusercontent.com/70807500/131542371-d91d45fd-d716-4d4f-bc3c-8ccb20d7f895.png" height="70px" />
+
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
 
@@ -114,3 +113,6 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
   
 <!--   #### [🌐 My Website](https://codingspecies.github.io/MeAndMyApps/) | [Join my org! 🏆](https://github.com/App-Choreography) | [InstDOGram 🐕!](https://github.com/CodingSpecies/InstDOGram) | [🔗 LinkFree Profile!](http://linkfree.eddiehub.org/CodingSpecies) -->
 
+
+
+<a target="_blank" href="https://icons8.com/icon/VcTCb_viZ8ui/wolf">Wolf</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
