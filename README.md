@@ -30,15 +30,9 @@
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
  
- 👉 [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
-
- <br>
-
- 👉 Contribute and explore the world of contributing: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
-
- <br>
-
- 👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
+-  👉 [Check out My Website! 🌐](https://codingspecies.github.io/MeAndMyApps/) 
+- 👉 Contribute and explore the world of contributing: [App-Choreography,Fix_README.md](https://github.com/App-Choreography/Fix-Our-Readme)
+- 👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
  ## See the languages that I know and what I work with 🧠 💭:
