@@ -17,15 +17,16 @@
 <img src="./mac.png" height="150" width="150" style="float:right">
 <img src="./starry.png" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+<!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" /><img src="https://forthebadge.com/images/badges/check-it-out.svg" /><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" /><img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> -->
 
-![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
+<!-- ![](https://img.shields.io/badge/JavaScript-Logic-informational?style=flat&logo=<>&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/HTML-DOM-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Style-informational?style=flat&logo=<>&logoColor=white&color=red)
-![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
-
+![](https://img.shields.io/badge/Markdown-LightWeight-informational?style=flat&logo=<>&logoColor=white&color=yellow) 
+-->
+<img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg)
+ <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+CodingSpecies!!+%F0%9F%91%8B;Love+to+make+new+websites+and+apps!;I+use+React.js+%E2%9A%9B%2C+CSS%2C+HTML!!!)](https://git.io/typing-svg) -->
 
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
  <h3>  
