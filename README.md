@@ -8,7 +8,7 @@
 
 -----
 
-![banners](./banner.png)
+![banners](./banners.png)
 
 -----
 
