@@ -20,7 +20,9 @@
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
 
- ## See the languages that I know and what I work with 🧠 💭:
+
+<img src="./resume.png" />
+ <!-- ## See the languages that I know and what I work with 🧠 💭:
 <code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
 
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
@@ -33,7 +35,7 @@
 
 ## Take a l👀k at some of my apps and projects:
   
-<a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a>
+<a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a> -->
  
  <!-- <details close>
   <summary> See My Graphs! 📊</summary>
