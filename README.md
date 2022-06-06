@@ -96,4 +96,4 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 
 
 
-icons by <a target="_blank" href="https://icons8.com">Icons8</a>
+<!-- icons by <a target="_blank" href="https://icons8.com">Icons8</a> -->
