@@ -22,7 +22,7 @@
 
 
 <details close>
-<summary>See Resume and how I can help you with graphics and websites!</summary>
+<summary><img src="./click.gif" /></summary>
 <br>
 <img src="./resume.png" />
 
