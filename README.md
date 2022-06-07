@@ -22,7 +22,7 @@
 
 
 <details close>
-<summary><img src="./click.gif" /></summary>
+<summary>Click Me! <img src="./click.gif" /></summary>
 <br>
 <img src="./resume.png" />
 
