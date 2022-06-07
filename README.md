@@ -22,7 +22,8 @@
 
 
 <details close>
-<summary>Click Me! <img src="./click.gif" /></summary>
+<summary>Click to see my Resume and how I can help you with graphics and websites!
+</summary>
 <br>
 <img src="./resume.png" />
 
