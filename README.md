@@ -8,20 +8,26 @@
 
 -----
 
-![banners](./banners.png)
+![banners](./banner.png)
 
 -----
 
 <div align=center>
- <img src ="./IDEAS.png" height="150" width="150"> <img src="https://www.harlingenveterinaryclinic.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=cdghqKxv" height="150" width="150" style="float:right">
-<img src="./mac.png" height="150" width="150" style="float:right">
-<img src="./starry.png" height="150" width="150" style="float:right">
+ <img src ="./CodingSpeciesBlue.gif" height="150" width="150"> <img src="./ideas.gif" height="150" width="150" style="float:right">
+<img src="./star.gif" height="150" width="150" style="float:right">
+<img src="./org.gif" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies)
 
 
+<details close>
+<summary>See Resume and how I can help you with graphics and websites!</summary>
+<br>
 <img src="./resume.png" />
+
+</details>
+
  <!-- ## See the languages that I know and what I work with 🧠 💭:
 <code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
 
@@ -33,9 +39,9 @@
 - 👉 Look at this cool generated resume: [Resume](https://resume.github.io/?CodingSpecies)
  </h3>
 
-## Take a l👀k at some of my apps and projects:
+<!-- ## Take a l👀k at some of my apps and projects:
   
-<a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a> -->
+<a href="https://codingspecies.github.io/Pixel-Tracer"> <img src ="https://user-images.githubusercontent.com/70807500/155179706-97b82dab-85c8-48e7-b116-f60fc4fad59a.png" height="150" width="250"> </a> <a href="https://github.com/CodingSpecies/InstDOGram"> <img src="https://user-images.githubusercontent.com/70807500/155179880-a447e644-56ef-414f-a1a8-b9ede947d6c9.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/TickTockClock"> <img src="https://user-images.githubusercontent.com/70807500/155180003-eec7323c-4c37-4de1-86b2-f7b9fd86621b.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/StartStopClock" > <img src="https://user-images.githubusercontent.com/70807500/155180136-e1acf456-ecf3-41ff-a824-4c509356632c.png" height="150" width="250" style="float:right"> </a> <a href="https://github.com/CodingSpecies/Best-App-Tutorials"> <img src="https://user-images.githubusercontent.com/70807500/155180424-2846dece-5f88-4100-9290-3ed3e870f66c.png" height="150" width="250" style="float:right"> </a> --> 
  
  <!-- <details close>
   <summary> See My Graphs! 📊</summary>
