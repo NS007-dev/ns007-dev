@@ -20,7 +20,6 @@
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies) [![](https://visitcount.itsvg.in/api?id=CodingSpecies&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
-
 <details close>
 <summary>Click to see my Resume and how I can help you with graphics and websites!
 </summary>
