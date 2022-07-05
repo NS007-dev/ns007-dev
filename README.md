@@ -28,7 +28,7 @@
 
 </details>
 
- <!-- ## See the languages that I know and what I work with 🧠 💭:
+ <!-- ## See the languages that I know and what I work frameworks with 🧠 💭:
 <code> <img src="./js.png" height = 70px> </code>  <code> <img src="./html.png" height = 70px> </code> <code> <img src="./css.png" height = 70px> </code> <code> <img src="./md.png" height = 70px> </code> <code> <img src="./react.png" height = 70px></code> <code> <img src="./git.png" height=70 /> </code> <code> <img src="./json.png" height=70 /> </code> <code> <img src="./python.png" height=70 /></code>
 
  <img src="https://user-images.githubusercontent.com/70807500/139574383-b6768923-40fd-4446-9b62-c8b9965eeae0.png" height=150 />
