@@ -10,7 +10,7 @@
 
 ![banners](./banner.png)
 
------
+---------
 
 <div align=center>
  <img src ="./CodingSpeciesBlue.gif" height="150" width="150"> <img src="./ideas.gif" height="150" width="150" style="float:right">
