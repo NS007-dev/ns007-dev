@@ -3,7 +3,7 @@
 <a href="https://github.com/CodingSpecies/InstDOGram"><img src="./instdogram.png" height=50/> </a> <a href="https://codingspecies.github.io/MeAndMyApps/"> <img src="./website.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="./organisation.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="./linkfree.png" height=45/> </a>
  
  #### 👆🏽 See my InstDOGram, Website 🌐, Join my org, LinkFree! ☝🏽
- ### Latest Women's Euros Stats ⚽: **Germany** 2 - 0 **Austria** | **Sweden** 1 - 0 **Belgium**
+ ### Latest Women's Euros Stats ⚽: **France**  - **Netherlands** | **Sweden** 1 - 0 **Belgium**
  
  </div>
 
