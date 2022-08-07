@@ -2,7 +2,7 @@
 
 <a href="https://github.com/CodingSpecies/InstDOGram"><img src="./instdogram.png" height=50/> </a> <a href="https://codingspecies.github.io/MeAndMyApps/"> <img src="./website.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="./organisation.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="./linkfree.png" height=45/> </a>
  
- #### 👆🏽 See my InstDOGram, Website 🌐, Join my org, LinkFree! ☝🏽
+ #### 👆🏽 See my InstDOGram, Website 🌐, Join my organisation, LinkFree! ☝🏽
  ### Latest Women's Euros Stats ⚽: England are the Euro 2022 Winners!
  
  </div>
