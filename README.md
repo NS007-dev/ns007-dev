@@ -13,8 +13,9 @@
 ----------
 
 <div align=center>
- <img src ="./CodingSpeciesBlue.gif" height="150" width="150"><img src="./org.gif" height="150" width="150" style="float:right">
- <img src="./ideas.gif" height="150" width="150" style="float:right">
+<img src ="./CodingSpeciesBlue.gif" height="150" width="150">
+<img src="./org.gif" height="150" width="150" style="float:right">
+<img src="./ideas.gif" height="150" width="150" style="float:right">
 <img src="./star.gif" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
 
