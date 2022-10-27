@@ -13,9 +13,9 @@
 ----------
 
 <div align=center>
- <img src ="./CodingSpeciesBlue.gif" height="150" width="150"> <img src="./ideas.gif" height="150" width="150" style="float:right">
+ <img src ="./CodingSpeciesBlue.gif" height="150" width="150"><img src="./org.gif" height="150" width="150" style="float:right">
+ <img src="./ideas.gif" height="150" width="150" style="float:right">
 <img src="./star.gif" height="150" width="150" style="float:right">
-<img src="./org.gif" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies) [![](https://visitcount.itsvg.in/api?id=CodingSpecies&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
