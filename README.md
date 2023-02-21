@@ -16,7 +16,7 @@
 <img src ="./CodingSpeciesBlue.gif" height="150" width="150">
 <img src="./org.gif" height="150" width="150" style="float:right">
 <img src="./ideas.gif" height="150" width="150" style="float:right">
-<img src="./star.gif" height="150" width="150" style="float:right">
+<img src="https://user-images.githubusercontent.com/70807500/220326643-9872bafb-9074-4310-aa8e-7d82f84c2b05.jpeg" height="150" width="150" style="float:right">
 <img src="https://user-images.githubusercontent.com/70807500/155173108-b02e30a6-fee8-4e38-bed1-196f02336ec0.png" height="150" width="150" style="float:right">
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies) [![](https://visitcount.itsvg.in/api?id=CodingSpecies&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
@@ -102,4 +102,7 @@ I like to think of new code projects... 🤔💭 <img src="https://user-images.g
 
 
 
-<!-- icons by <a target="_blank" href="https://icons8.com">Icons8</a> -->
+<!-- icons by <a target="![5CE94866-B104-4717-ACC2-FCCAB84495D7_1_201_a](https://user-images.githubusercontent.com/70807500/220326643-9872bafb-9074-4310-aa8e-7d82f84c2b05.jpeg)
+_blank" href="https://icons8.com">Icons8</a> -->
+
+
