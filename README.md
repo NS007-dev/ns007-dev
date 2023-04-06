@@ -1,4 +1,4 @@
-## Need a Logo creating? Click here to see what I have to offer 👉 [https://www.fiverr.com/share/ymdLeq](https://www.fiverr.com/share/ymdLeq)!
+## [Need a Logo creating? Click here to see what I have to offer](https://www.fiverr.com/share/ymdLeq)!
 
 <div align=center>
 
