@@ -1,5 +1,3 @@
-## [Need a Logo creating? Click here to see what I have to offer](https://www.fiverr.com/share/ymdLeq)!
-
 <div align=center>
 
 <a href="https://github.com/CodingSpecies/InstDOGram"><img src="./instdogram.png" height=50/> </a> <a href="https://codingspecies.github.io/MyPortfolio/"> <img src="./website.png" height=45/> </a> <a href="https://github.com/App-Choreography"> <img src="./organisation.png" height=45/> </a> <a href="http://linkfree.eddiehub.org/CodingSpecies"> <img src="./linkfree.png" height=45/> </a>
