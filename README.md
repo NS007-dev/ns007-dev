@@ -2,7 +2,7 @@
 
 -----------
 
-<img src="./banner.png" height = 240 width = 818>
+<img src="./banner.png" height = 290 width = 818>
 
 <img src="https://www.codewars.com/users/DestinyCodeSavvy/badges/micro"/> ![](https://komarev.com/ghpvc/?username=CodingSpecies) [![](https://visitcount.itsvg.in/api?id=CodingSpecies&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
