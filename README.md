@@ -11,7 +11,7 @@
 
 -----------
 
-- 🔭 I’m currently working on: **creating a website about favourite music**
+- 🔭 I’m currently working on: **Making TypeScript projects.**
 
 - 🌱 I’m currently learning **TypeScript and Python**
 
