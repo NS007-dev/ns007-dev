@@ -4,8 +4,6 @@
 
 <img src="./banner.png" width="100%" alt="Noorin Sakhi Banner"/>
 
-# `while(alive){ learn(); build(); contribute(); }`
-
 ```js
 const noorin = {
     currentVersion: "v17.0",
