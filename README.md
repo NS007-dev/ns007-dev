@@ -6,7 +6,7 @@
 
 ```js
 const noorin = {
-    currentVersion: "v17.0",
+    currentVersion: "v18.0",
     role: "Aspiring AI Engineer",
     location: "Toronto, Canada",
     status: "Building. Learning. Contributing."
