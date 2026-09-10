@@ -13,7 +13,7 @@ talking about big things that might.
 ## About me
 
 -  1st year at TMU
-- Comfortable in JavaScript, React.js  — currently deepening my Python, TypeScript and AI/ML
+- Comfortable in JavaScript, React.js  - currently deepening my Python, TypeScript and AI/ML
 -  I learn best by building, so most of what's below started as "I wonder if I can make this"
 -  Toronto, Canada
 -  Looking for an internship or remote junior role where I can actually ship code
@@ -29,10 +29,10 @@ A React app that hits NASA's Astronomy Picture of the Day API - pick a date, see
 A Python project built for STEMing UP 2025, on the theme "Justice is expensive, silence is cheaper." My favorite project so far because it started from an idea I cared about, not just a tutorial.
 
 **[Lumora](https://github.com/NS007-dev/Lumora)**
-A React app built to support teen girls' mental health and confidence — daily affirmations, a mood tracker, a self-reflection journal, and a few other tools, all wrapped in a calm pastel UI. Built with React, React Router, and Context API for state. The kind of project where the UX mattered as much as the code.
+A React app built to support teen girls' mental health and confidence - daily affirmations, a mood tracker, a self-reflection journal, and a few other tools, all wrapped in a calm pastel UI. Built with React, React Router, and Context API for state. The kind of project where the UX mattered as much as the code.
 
 **[Instagram Clone](https://github.com/NS007-dev/Instagram)**
-An HTML/CSS clone of Instagram's front end — an early project, kept up because it's a good record of where I started.
+An HTML/CSS clone of Instagram's front end - an early project, kept up because it's a good record of where I started.
 
 ---
 
@@ -46,7 +46,7 @@ An HTML/CSS clone of Instagram's front end — an early project, kept up because
 
 ## Talk to me
 
-I reply to all of these — don't be shy:
+I reply to all of these - don't be shy:
 
 - 📧 **Email:** noorscoder@gmail.com
 - 💼 **LinkedIn:** [in/noorin-sakhi](https://www.linkedin.com/in/noorin-sakhi/)
