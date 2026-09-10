@@ -12,11 +12,11 @@ talking about big things that might.
 
 ## About me
 
-- 🎓 1st year at TMU
-- 💻 Comfortable in JavaScript, React.js  — currently deepening my Python, TypeScript and AI/ML
-- 🛠️ I learn best by building, so most of what's below started as "I wonder if I can make this"
-- 📍 Toronto, Canada
-- 🎯 Looking for an internship or remote junior role where I can actually ship code
+-  1st year at TMU
+- Comfortable in JavaScript, React.js  — currently deepening my Python, TypeScript and AI/ML
+-  I learn best by building, so most of what's below started as "I wonder if I can make this"
+-  Toronto, Canada
+-  Looking for an internship or remote junior role where I can actually ship code
 
 ---
 
