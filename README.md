@@ -28,7 +28,7 @@ A React app that hits NASA's Astronomy Picture of the Day API - pick a date, see
 **[SilentFunds](https://github.com/NS007-dev/SilentFunds)**
 A Python project built for STEMing UP 2025, on the theme "Justice is expensive, silence is cheaper." My favorite project so far because it started from an idea I cared about, not just a tutorial.
 
-**[Lumora](https://github.com/NS007-dev/Lumora)**
+**[Lumora](https://github.com/NS007-dev/Lumora-Technovation)**
 A React app built to support teen girls' mental health and confidence - daily affirmations, a mood tracker, a self-reflection journal, and a few other tools, all wrapped in a calm pastel UI. Built with React, React Router, and Context API for state. The kind of project where the UX mattered as much as the code.
 
 **[Instagram Clone](https://github.com/NS007-dev/Instagram)**
