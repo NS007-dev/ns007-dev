@@ -29,6 +29,31 @@ const noorin = {
 
 </div>
 
+=======
+```js
+const noorin = {
+    currentVersion: "v18.0",
+    role: "Aspiring AI Engineer",
+    location: "Toronto, Canada",
+    status: "Building. Learning. Contributing."
+};
+```
+
+<img src="https://i.pinimg.com/originals/01/48/2c/01482cfa4830e64cbd19b0fcd8e75eda.gif" width="300"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"The most dangerous phrase in the language is: We've always done it this way."*
+>
+> **- Grace Hopper**
+
+</div>
+
+>>>>>>> 0db872c8dbeb50b0b680b0ff7bcb0b9fb6571763
 ---
 
 # > booting noorin.exe
