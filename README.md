@@ -50,7 +50,7 @@ I reply to all of these — don't be shy:
 
 - 📧 **Email:** noorscoder@gmail.com
 - 💼 **LinkedIn:** [in/noorin-sakhi](https://www.linkedin.com/in/noorin-sakhi/)
-- 🌐 **Portfolio:** [app-choreography.github.io](https://app-choreography.github.io/)
+- 🌐 **Portfolio:** [https://noorinsakhi.vercel.app/](https://noorinsakhi.vercel.app/)
 
 If you're a recruiter or hiring manager and something above looks like a fit - reach out, I'd genuinely love to talk.
 
