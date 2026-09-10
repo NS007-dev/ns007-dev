@@ -1,230 +1,57 @@
-###### Join my org [Here ✉️](https://github.com/App-Choreography/Get-An-Invite/issues/new?assignees=CodingSpecies&labels=Organisation+Invite%21+%F0%9F%93%A8&template=please-can-i-join-this-organisation------.md&title=Please+Can+I+Join+This+Organisation%3F+%F0%9F%A5%BA%F0%9F%99%8F")
-
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Noorin Sakhi Banner"/>
+# Hey, I'm Noorin
 
-# `while(alive){ learn(); build(); contribute(); }`
-
-```js
-const noorin = {
-    currentVersion: "v17.0",
-    role: "Aspiring AI Engineer",
-    location: "Toronto, Canada",
-    status: "Building. Learning. Contributing."
-};
-```
-
-<img src="https://i.pinimg.com/originals/01/48/2c/01482cfa4830e64cbd19b0fcd8e75eda.gif" width="300"/>
+First-year student at Toronto Metropolitan University, building software and
+picking up AI along the way. I like shipping small things that work more than
+talking about big things that might.
 
 </div>
 
 ---
 
-<div align="center">
+## About me
 
-> *"The most dangerous phrase in the language is: We've always done it this way."*
->
-> **- Grace Hopper**
-
-</div>
-
-=======
-```js
-const noorin = {
-    currentVersion: "v18.0",
-    role: "Aspiring AI Engineer",
-    location: "Toronto, Canada",
-    status: "Building. Learning. Contributing."
-};
-```
-
-<img src="https://i.pinimg.com/originals/01/48/2c/01482cfa4830e64cbd19b0fcd8e75eda.gif" width="300"/>
-
-</div>
+- 🎓 1st year at TMU
+- 💻 Comfortable in JavaScript, React.js  — currently deepening my Python, TypeScript and AI/ML
+- 🛠️ I learn best by building, so most of what's below started as "I wonder if I can make this"
+- 📍 Toronto, Canada
+- 🎯 Looking for an internship or remote junior role where I can actually ship code
 
 ---
 
-<div align="center">
+## Projects I'm proud of
 
-> *"The most dangerous phrase in the language is: We've always done it this way."*
->
-> **- Grace Hopper**
+**[nasaSkySearch](https://github.com/NS007-dev/nasaSkySearch)**
+A React app that hits NASA's Astronomy Picture of the Day API - pick a date, see what the sky looked like. Built to practice working with external APIs and rendering async data cleanly.
 
-</div>
+**[SilentFunds](https://github.com/NS007-dev/SilentFunds)**
+A Python project built for STEMing UP 2025, on the theme "Justice is expensive, silence is cheaper." My favorite project so far because it started from an idea I cared about, not just a tutorial.
 
->>>>>>> 0db872c8dbeb50b0b680b0ff7bcb0b9fb6571763
----
+**[Lumora](https://github.com/NS007-dev/Lumora)**
+A React app built to support teen girls' mental health and confidence — daily affirmations, a mood tracker, a self-reflection journal, and a few other tools, all wrapped in a calm pastel UI. Built with React, React Router, and Context API for state. The kind of project where the UX mattered as much as the code.
 
-# > booting noorin.exe
-
-```bash
-Initializing profile...
-
-Loading Open Source...
-Loading Artificial Intelligence...
-Loading Cybersecurity...
-Loading Collaboration...
-
-Status: READY
-```
+**[Instagram Clone](https://github.com/NS007-dev/Instagram)**
+An HTML/CSS clone of Instagram's front end — an early project, kept up because it's a good record of where I started.
 
 ---
 
-## `aboutMe.js`
+## What I'm working on right now
 
-```javascript
-const noorin = {
-    name: "Noorin Sakhi",
-    role: "Aspiring AI Engineer",
-    education: "Grade 12 Student",
-    location: "Toronto, Canada",
-
-    interests: [
-        "Software engineering",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Front-end",
-        "Open Source",
-        "Collaboration"
-    ],
-
-    passionateAbout: [
-        "Creating impactful applications",
-        "Building with purpose",
-        "Global collaboration",
-        "Open source communities"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Python",
-        "Artificial Intelligence"
-    ]
-};
-```
+- Getting properly comfortable with TypeScript (past the point of copy-pasting types)
+- Learning the actual math/fundamentals behind AI, not just calling an API
+- Trying to ship one finished project a month instead of ten half-finished ones
 
 ---
 
-## `achievements.sh`
+## Talk to me
 
-```bash
-$ achievements --list
+I reply to all of these — don't be shy:
 
-✓ TMU Technovation Girls Global Competition Quarterfinalist
+- 📧 **Email:** noorscoder@gmail.com
+- 💼 **LinkedIn:** [in/noorin-sakhi](https://www.linkedin.com/in/noorin-sakhi/)
+- 🌐 **Portfolio:** [app-choreography.github.io](https://app-choreography.github.io/)
 
-✓ NCWIT Canadian Affiliate Winner
-
-✓ STEMing UP UX Design Winner
-
-✓ Hacktoberfest 2021 Successful Contributor
-
-✓ Hacktoberfest 2022 Successful Contributor
-```
-
----
-
-## `openSource.ts`
-
-```typescript
-const openSource = {
-    organization: "App-Choreography",
-    founder: true,
-    communityMembers: "300+",
-
-    mission:
-        "Making open source accessible worldwide",
-
-    focus: [
-        "Collaboration",
-        "Learning",
-        "Building Together"
-    ]
-};
-```
-
----
-
-## `techStack.json`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bootstrap" />
-
-</div>
-
----
-
-## `currentlyWorkingOn.py`
-
-```python
-current_focus = [
-    "Learning TypeScript",
-    "Exploring Artificial Intelligence",
-    "Strengthening Python Skills",
-    "Growing Open Source Communities",
-    "Building Real-World Projects"
-]
-```
-
----
-
-## `careerPath.js`
-
-```javascript
-async function future() {
-    await learn();
-    await build();
-    await contribute();
-
-    return "AI Engineer";
-}
-```
-
----
-
-## `dailyQuote.txt`
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<!-- ## `connect.js`
-
-```javascript
-const links = {
-    github: "https://github.com/NS007-dev",
-    portfolio: "YOUR_PORTFOLIO_URL",
-    linkedin: "YOUR_LINKEDIN_URL"
-};
-``` -->
-
-<div align="center">
-
-<!-- <a href="https://github.com/NS007-dev">
-    <img src="https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white"/>
-</a> -->
-
-<!-- <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
-
-<!-- <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-0074D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a> -->
+If you're a recruiter or hiring manager and something above looks like a fit - reach out, I'd genuinely love to talk.
 
 </div>
