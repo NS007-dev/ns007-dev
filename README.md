@@ -1,10 +1,15 @@
 <div align="center">
 
+
+<img src="./banner.png" width="100%" alt="Noorin Sakhi Banner"/>
+
 # Hey, I'm Noorin
 
 First-year student at Toronto Metropolitan University, building software and
 picking up AI along the way. I like shipping small things that work more than
 talking about big things that might.
+
+<img src="https://i.pinimg.com/originals/01/48/2c/01482cfa4830e64cbd19b0fcd8e75eda.gif" width="300"/>
 
 </div>
 
