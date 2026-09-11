@@ -44,9 +44,7 @@ An HTML/CSS clone of Instagram's front end - an early project, kept up because i
 
 ---
 
-## Talk to me
-
-I reply to all of these - don't be shy:
+## Ways to connect
 
 - 📧 **Email:** noorscoder@gmail.com
 - 💼 **LinkedIn:** [in/noorin-sakhi](https://www.linkedin.com/in/noorin-sakhi/)
