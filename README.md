@@ -27,7 +27,7 @@ talking about big things that might.
 
 ## Projects I'm proud of
 
-**[ClosetCue](https://github.com/NS007-dev/closetcue)**
+**[ClosetCue](https://github.com/NS007-dev/closet-cue)**
 A magazine-style wardrobe app I built for my sister. She photographs her closet and it styles a look every morning from clothes she already owns, never repeating a complete outfit. React, TypeScript and FastAPI, with a local open-weight Gemma model running through Ollama, so the photos stay on the laptop. Started as a Hacktoberfest "Build for a Friend" project, and the part I enjoyed most was designing it like a fashion editorial instead of a dashboard.
 
 **[nasaSkySearch](https://github.com/NS007-dev/nasaSkySearch)**
